@@ -1,0 +1,14 @@
+C:\Users\Jerome\source\repos\inheritanceandpolymorphism\inheritanceandpolymorphism\obj\Debug\netcoreapp3.1\inheritanceandpolymorphism.csproj.AssemblyReference.cache
+C:\Users\Jerome\source\repos\inheritanceandpolymorphism\inheritanceandpolymorphism\obj\Debug\netcoreapp3.1\inheritanceandpolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerome\source\repos\inheritanceandpolymorphism\inheritanceandpolymorphism\obj\Debug\netcoreapp3.1\inheritanceandpolymorphism.AssemblyInfoInputs.cache
+C:\Users\Jerome\source\repos\inheritanceandpolymorphism\inheritanceandpolymorphism\obj\Debug\netcoreapp3.1\inheritanceandpolymorphism.AssemblyInfo.cs
+C:\Users\Jerome\source\repos\inheritanceandpolymorphism\inheritanceandpolymorphism\obj\Debug\netcoreapp3.1\inheritanceandpolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\inheritanceandpolymorphism\inheritanceandpolymorphism\bin\Debug\netcoreapp3.1\inheritanceandpolymorphism.exe
+C:\Users\Jerome\source\repos\inheritanceandpolymorphism\inheritanceandpolymorphism\bin\Debug\netcoreapp3.1\inheritanceandpolymorphism.deps.json
+C:\Users\Jerome\source\repos\inheritanceandpolymorphism\inheritanceandpolymorphism\bin\Debug\netcoreapp3.1\inheritanceandpolymorphism.runtimeconfig.json
+C:\Users\Jerome\source\repos\inheritanceandpolymorphism\inheritanceandpolymorphism\bin\Debug\netcoreapp3.1\inheritanceandpolymorphism.runtimeconfig.dev.json
+C:\Users\Jerome\source\repos\inheritanceandpolymorphism\inheritanceandpolymorphism\bin\Debug\netcoreapp3.1\inheritanceandpolymorphism.dll
+C:\Users\Jerome\source\repos\inheritanceandpolymorphism\inheritanceandpolymorphism\bin\Debug\netcoreapp3.1\inheritanceandpolymorphism.pdb
+C:\Users\Jerome\source\repos\inheritanceandpolymorphism\inheritanceandpolymorphism\obj\Debug\netcoreapp3.1\inheritanceandpolymorphism.dll
+C:\Users\Jerome\source\repos\inheritanceandpolymorphism\inheritanceandpolymorphism\obj\Debug\netcoreapp3.1\inheritanceandpolymorphism.pdb
+C:\Users\Jerome\source\repos\inheritanceandpolymorphism\inheritanceandpolymorphism\obj\Debug\netcoreapp3.1\inheritanceandpolymorphism.genruntimeconfig.cache
